@@ -1,5 +1,5 @@
 # Interchained | <b>SideChained</b> <u>AIO</u> 
-<i>(Web3 + (0x + Altcoin) </i> 
+## <i>(Web3 + (0x + Altcoin) </i> 
 Designed, developed, and open-sourced by Interchained ----> Connect with Interchained on Telegram at https://t.me/interchained  </br>
 Made possible by Electronero Network Project ----> join Electronero Network Board Room at https://t.me/electronero </br>
 Interchained, as in interoperable blockchains.</br>
